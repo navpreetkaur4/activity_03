@@ -3,7 +3,7 @@ Description:
     Defines the Payment class, which uses a PaymentStrategy to process payments.
 """
 
-__author__ = "Your Name"
+__author__ = "Navpreet"
 __version__ = "1.0.0"
 # __credits__ = "ACE Faculty"
 

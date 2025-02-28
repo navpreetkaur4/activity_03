@@ -1,6 +1,6 @@
 """This module defines the BillingAccount class."""
 
-__author__ = "ACE Faculty"
+__author__ = "Navpreet"
 __version__ = "1.0.0"
 __credits__ = ""
 
